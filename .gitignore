@@ -14,6 +14,10 @@ gs1/db.sqlite3
 gs1/__pycache__/
 gs2/db.sqlite3
 gs2/__pycache__/
+model_serializer_proj/db.sqlite3
+model_serializer_proj/__pycache__/
+api_view_proj/db.sqlite3
+api_view_proj/__pycache__/
 info.txt
 
 # If your build process includes running collectstatic, then you probably don't need or want to include staticfiles/
