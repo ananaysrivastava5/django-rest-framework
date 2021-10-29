@@ -22,6 +22,8 @@ mixins_proj/db.sqlite3
 mixins_proj/__pycache__/
 concrete_view_class_proj/db.sqlite3
 concrete_view_class_proj/__pycache__/
+model_view_set_proj/db.sqlite3
+model_view_set_proj/__pycache__/
 info.txt
 
 # If your build process includes running collectstatic, then you probably don't need or want to include staticfiles/
