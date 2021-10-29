@@ -9,7 +9,7 @@ db.sqlite3-journal
 media
 venv-drf/
 crud_proj/db.sqlite3
-curd_proj/__pycache__/
+crud_proj/__pycache__/
 gs1/db.sqlite3
 gs1/__pycache__/
 gs2/db.sqlite3
@@ -18,6 +18,10 @@ model_serializer_proj/db.sqlite3
 model_serializer_proj/__pycache__/
 api_view_proj/db.sqlite3
 api_view_proj/__pycache__/
+mixins_proj/db.sqlite3
+mixins_proj/__pycache__/
+concrete_view_class_proj/db.sqlite3
+concrete_view_class_proj/__pycache__/
 info.txt
 
 # If your build process includes running collectstatic, then you probably don't need or want to include staticfiles/
