@@ -8,5 +8,5 @@ from rest_framework.permissions import IsAuthenticated
 class StudentModelViewSet(viewsets.ModelViewSet):
     queryset = Student.objects.all()
     serializer_class = StudentSerializer
-    #authentication_classes = [BasicAuthentication]
-    #permission_classes = [IsAuthenticated]
+    authentication_classes = [BasicAuthentication]
+    permission_classes = [IsAuthenticated]
