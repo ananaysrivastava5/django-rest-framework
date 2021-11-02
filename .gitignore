@@ -24,6 +24,12 @@ concrete_view_class_proj/db.sqlite3
 concrete_view_class_proj/__pycache__/
 model_view_set_proj/db.sqlite3
 model_view_set_proj/__pycache__/
+basic_authentication_proj/db.sqlite3
+basic_authentication_proj/__pycache__/
+session_authentication_proj/db.sqlite3
+session_authentication_proj/__pycache__/
+custom_permission_proj/db.sqlite3
+custom_permission_proj/__pycache__/
 info.txt
 
 # If your build process includes running collectstatic, then you probably don't need or want to include staticfiles/
