@@ -34,6 +34,8 @@ token_authentication_proj/db.sqlite3
 token_authentication_proj/__pycache__/
 jwt_proj/db.sqlite3
 jwt_proj/__pycache__/
+throttling_proj/db.sqlite3
+throttling_proj/__pycache__/
 info.txt
 
 # If your build process includes running collectstatic, then you probably don't need or want to include staticfiles/
